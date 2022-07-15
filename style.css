@@ -274,6 +274,6 @@ section .info p {
   }
 
   main section .info {
-    margin: 10px 0;
+    margin: 10px 0px;
   }
 }
